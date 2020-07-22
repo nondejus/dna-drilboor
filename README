@@ -30,12 +30,12 @@ without-words
 6 8 3 8    核 seed, kernel, core, nut; atom
 7 C D 6    糖 sugar; candy; sweets
 
-核 seed, kernel, core, nut; atom
-酸 tart, sour; acid; stiff; spoiled
-手 hand
-提 hold in hand; lift in hand
+6 8 3 8    核 seed, kernel, core, nut; atom
+9 1 7 8    酸 tart, sour; acid; stiff; spoiled
+6 2 4 B    手 hand
+6 3 D 0    提 hold in hand; lift in hand
 
-鑿 chisel; bore, pierce
-岩 cliff; rocks; mountain
-機 machine; moment, chance
-影 picture, image, reflection, shadow
+9 4 7 F    鑿 chisel; bore, pierce
+5 C A 9    岩 cliff; rocks; mountain
+6 A 5 F    機 machine; moment, chance
+5 F 7 1    影 picture, image, reflection, shadow
