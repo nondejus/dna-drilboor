@@ -13,10 +13,12 @@ without-words
 7 9 D 1    科 section, department, science
 9 1 A B    醫 cure, heal; doctor, medical
 
-生 life, living, lifetime; birth
-希 rare; hope, expect, strive for
-波 waves, breakers; undulations
-克 gram; overcome; transliteration
+-------    unicode
+
+7 5 1 F    生 life, living, lifetime; birth
+5 E 0 C    希 rare; hope, expect, strive for
+6 C E 2    波 waves, breakers; undulations
+5 1 4 B    克 gram; overcome; transliteration
 
 拉 pull, drag; seize, hold; lengthen
 底 bottom, underneath, underside
